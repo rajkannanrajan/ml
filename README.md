@@ -1,5 +1,5 @@
 # ml-dl
 Basic projects on Machine Learning / Deep Learning
 
-Linear Regression 
-Predicting House Price (Chennai Univariate Training Data)
+001 Housing Price Prediction
+002 Handwritten Digits Classification 
